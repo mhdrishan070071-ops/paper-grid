@@ -1,0 +1,168 @@
+
+.butn{
+   
+    background-color: black;
+    cursor: pointer;
+    border-color: black;
+    padding-left: 100px;
+    color: white;
+    width: 100%;
+    height: 40px;
+    align-items: center; 
+    cursor: pointer;
+    border-style: none;
+    font-style: inherit;
+    border-bottom: 1px solid grey;
+
+}
+.butn:hover{
+    background-color: rgb(28, 26, 26);
+}
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+}
+
+    
+.image-im{
+   width: 125px;
+    height: 30px;
+    margin-left: 151px;
+    padding-top: 31px;
+    float: left;
+}
+.logo-image{
+    position: absolute;
+    top:40px ;
+    right: 10px;
+    width: 118px;
+    padding-top: 25px;
+    padding-left: 660px;
+}
+
+.datas{
+    color: white;
+    float: left;
+    padding-left: 45px;
+    padding-top: 40px;
+    font-style: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 0.75;
+}
+.datas1{
+    color: white;
+    float: left;
+    padding-left: 45px;
+    padding-top: 40px;
+    cursor: pointer;
+    
+
+}
+.datas1:hover{
+   
+    text-decoration: underline;
+   
+}
+.datas:hover{
+    opacity: 0.9;
+    text-decoration: underline;
+}
+
+.book-body{
+    margin-left: 170px;
+    margin-top:30px;
+}
+.image-book{
+   float: left;
+    width: 362px;
+    height: 362px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.founder{
+   
+    margin-left: 170px;
+}
+.founder-image{
+     width: 394px;
+    height: 527px;
+    padding-top: 70px;
+    float: left;
+
+}
+.note{
+    margin-left: 70px;
+    margin-top: 100px;
+    float: left;
+    
+}
+.about-bttn{
+    width: 110px;
+    height: 35px;
+    background-color: black;
+    border: none;
+    color: white;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.about-bttn:hover{
+    opacity: 0.9;
+}
+.para2{
+    color: rgb(101, 100, 100);
+}
+.footer-container{  
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    margin-top: 1830px;
+}
+
+
+
+.icon{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding-top: 50px;
+}
+.bottum-footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.bottum-footer{
+    border-top: 1px solid grey;
+}
+.para-bottum{
+    color: white;
+    opacity: 0.7;
+    float: left;
+    align-items: center;
+    text-align: center;
+    padding-left: 232px;
+    padding-top: 20px;
+}
+.footer-container-1 h3{
+    color: azure;
+    text-align: center;
+    padding-top: 20px;
+}
+.footer-container-1 a{
+    text-align: center;
+    display: block;
+    text-decoration: underline;
+    color: azure;
+    margin-bottom: 20px;
+}
+
+
